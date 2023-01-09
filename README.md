@@ -119,7 +119,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://github.com/gaurharsh)
 
 
 ## 🚀  

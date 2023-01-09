@@ -247,7 +247,7 @@ Here are some related projects
 
 ## Support
 
-For support, email gaurharsh2022@.com or join our Slack channel.
+For support, email gaurharsh2022@gmail.com or join our Slack channel.
 
 
 ## Running Tests

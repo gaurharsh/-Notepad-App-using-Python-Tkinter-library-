@@ -117,10 +117,6 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## Authors
-
-- [@octokatherine](https://github.com/gaurharsh)
-
 
 ## 🚀  
 # 💫 About Me:
